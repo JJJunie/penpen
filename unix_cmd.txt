@@ -1,0 +1,8 @@
+ls : list (폴더에 있는 파일 리스트 보여줌)
+cd : change directory [cd 가고 싶은 경로 ]
+	예시:
+	cd ./penpen 
+	cd ~
+	cd ..
+mkdir : make directory 폴더 생성 [ mkdir 폴더이름 ]
+
